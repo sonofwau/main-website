@@ -1,0 +1,64 @@
+<div class="entry-word-section-container" id="dictionary-entry-4">
+<span class="anchor-name" data-hom="4" id="h4-anchor"></span>
+<span id="dictionary-entry-4-anchor"></span>
+<div class="row entry-header">
+<div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">Mark</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">4 of 4</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (3)</a></h2> </div>
+<div class="row entry-attr mb-3 mt-2">
+<div class="col word-syllables-prons-header-content flex-wrap">
+<!-- TODO: syllables entry word content - commenting out for now -->
+<span class="prons-entries-list-inline mb-1">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="m" data-file="mark0001" data-lang="en_us" data-title="How to pronounce Mark (audio)" data-url="https://www.merriam-webster.com/dictionary/Mark?pronunciation&amp;lang=en_us&amp;dir=m&amp;file=mark0001" href="/dictionary/Mark?pronunciation&amp;lang=en_us&amp;dir=m&amp;file=mark0001" title="How to pronounce Mark (audio)">ˈmärk <img alt="How to pronounce Mark (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+</div>
+</div>
+</div>
+<!-- Save to list Button -->
+<!-- -->
+</div>
+<div class="vg">
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an early Jewish Christian traditionally identified as the writer of the Gospel of Mark</span>
+<p class="ca"><span class="mdash"><svg fill="none" height="9" viewbox="0 0 15 9" width="15" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.304 8.36202V4.84202H0V4.17002H10.304V0.650024L14.432 4.50602L10.304 8.36202Z" fill="#303336"></path>
+</svg></span> <span class="intro">called also</span>
+<span class="cat">John Mark</span> </p>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>the second Gospel (see <a class="mw_t_dxt" href="/dictionary/gospel#h1"><span class="text-uppercase">gospel</span> <span class="text-lowercase">entry</span> 1 <span class="text-lowercase">sense 1</span></a>) in the <a class="mw_t_d_link" href="/dictionary/New Testament">New Testament</a> <span class="dx-jump"> <svg fill="none" height="9" viewbox="0 0 15 9" width="15" xmlns="http://www.w3.org/2000/svg"><path d="M10.304 8.36202V4.84202H0V4.17002H10.304V0.650024L14.432 4.50602L10.304 8.36202Z" fill="#303336"></path></svg> see <a class="mw_t_dxt" href="/dictionary/bible#table">Bible Table</a></span></span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a king of Cornwall, uncle of Tristram, and husband of Isolde</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+</div>
+<!-- Only show dros in supplementary section for intermediate-dictionary/kids dictionary words -> https://merriam.atlassian.net/browse/MWSITE-9211 -->
+</div>

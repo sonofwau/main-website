@@ -1,0 +1,179 @@
+[<span class="anchor-name ga-track-hom" data-hom="2" id="h2-anchor"></span>, <span id="dictionary-entry-2-anchor"></span>, <div class="row entry-header">
+<div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">2 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (1)</a></h2> </div>
+</div>
+<!-- Save to list Button -->
+<!-- -->
+</div>, <div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">2 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (1)</a></h2> </div>
+</div>, <div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">2 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (1)</a></h2> </div>, <p class="hword">spell</p>, <span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">2 of 5</span></span>, <span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">2 of 5</span>, <h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (1)</a></h2>, <a class="important-blue-link" href="/dictionary/noun">noun (1)</a>, <div class="vg">
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a spoken word or form of words held to have magic power</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a state of enchantment</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a strong compelling influence or attraction</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+</div>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a spoken word or form of words held to have magic power</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a state of enchantment</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">1</div>, <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a spoken word or form of words held to have magic power</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a state of enchantment</span>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a spoken word or form of words held to have magic power</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a spoken word or form of words held to have magic power</span>
+</span>
+</div>
+</div>, <span class="sn"><span class="letter">a</span></span>, <span class="letter">a</span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a spoken word or form of words held to have magic power</span>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a spoken word or form of words held to have magic power</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>a spoken word or form of words held to have magic power</span>, <strong class="mw_t_bc">: </strong>, <div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a state of enchantment</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a state of enchantment</span>
+</span>
+</div>
+</div>, <span class="sn"><span class="letter">b</span></span>, <span class="letter">b</span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a state of enchantment</span>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a state of enchantment</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>a state of enchantment</span>, <strong class="mw_t_bc">: </strong>, <div class="vg-sseq-entry-item-thread-anchor"></div>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a strong compelling influence or attraction</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">2</div>, <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a strong compelling influence or attraction</span>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a strong compelling influence or attraction</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a strong compelling influence or attraction</span>
+</span>
+</div>
+</div>, <span class="sn"></span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a strong compelling influence or attraction</span>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a strong compelling influence or attraction</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>a strong compelling influence or attraction</span>, <strong class="mw_t_bc">: </strong>, <div class="vg-sseq-entry-item-thread-anchor"></div>]

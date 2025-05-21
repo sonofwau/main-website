@@ -1,0 +1,62 @@
+<html>
+ <head></head>
+ <body>
+  <div class="entry-word-section-container" id="dictionary-entry-1">
+   <span class="anchor-name" data-hom="1" id="h1-anchor"></span><span id="dictionary-entry-1-anchor"></span>
+   <div class="row entry-header">
+    <div class="col-12">
+     <div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+      <h1 class="hword">khat</h1>
+      <h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun</a></h2>
+     </div>
+     <div class="row entry-attr mb-3 mt-2">
+      <div class="col word-syllables-prons-header-content flex-wrap">
+       <!-- TODO: syllables entry word content - commenting out for now -->
+       <span class="prons-entries-list-inline mb-1"> <a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="k" data-file="khat0001" data-lang="en_us" data-title="How to pronounce khat (audio)" data-url="https://www.merriam-webster.com/dictionary/khat?pronunciation&amp;lang=en_us&amp;dir=k&amp;file=khat0001" href="/dictionary/khat?pronunciation&amp;lang=en_us&amp;dir=k&amp;file=khat0001" title="How to pronounce khat (audio)">ˈkät&nbsp;<img alt="How to pronounce khat (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"></a> </span>
+      </div>
+     </div>
+    </div>
+    <!-- Save to list Button -->
+    <!--         <div class="col-12 save-to-list">
+          <a id="save-to-list-link" href="/saved-words" data-ref="dictionary" data-word="khat">
+            <span class="ul-add-icon ul-icon">
+              <svg class="ul-word-list-icon" width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="WordList" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+  <rect id="RectFill" class="rect-fill" x="1" y="1" width="12" height="9" r="0" rx="0" ry="0" stroke="none"></rect>
+  <polygon id="Path-10" fill="#97bece" points="1 8 13 8 13 17 7 12.6775391 1 17"></polygon>
+  <polygon id="Path-11" stroke="#fff" stroke-width="1.5" points="1 1 13 1 13 17 6.98357563 12.2587174 1 17"></polygon>
+	</g>
+</svg>            </span>
+            <span id="save-to-list-txt">Save Word</span>
+          </a>
+        </div>
+     -->
+   </div>
+   <div class="ul-must-login-def">
+    <div id="save-word-login-html"></div>
+   </div>
+   <div class="row headword-row header-vrs">
+    <div class="col">
+     <span class="entry-attr vrs"><span class="badge mw-badge-gray-100 text-start text-wrap d-inline">variants</span> <span><span class="vl"> or less commonly </span><span class="va" id="qat-anchor">qat</span></span> <span><span class="vl"> or </span><span class="va" id="kat-anchor">kat</span></span></span>
+    </div>
+   </div>
+   <div class="vg">
+    <div class="vg-sseq-entry-item">
+     <div class="sb no-sn ms-lg-4 ms-3 w-100">
+      <div class="sb-0 sb-entry">
+       <div class="sense no-subnum">
+        <div class="sense-content w-100">
+         <span class="dt hasSdSense"> <span class="dtText"><strong class="mw_t_bc">: </strong>a shrub (<em class="mw_t_it">Catha edulis</em>) of the <a class="mw_t_d_link" href="/dictionary/staff tree">staff-tree</a> family that is cultivated in the Middle East and Africa for its leaves and buds which are the source of a habituating stimulant when chewed or used as a tea</span> </span>
+         <div class="sdsense">
+          <span class="sd">also</span><span class="dtText"><strong class="mw_t_bc">: </strong>its leaves and buds</span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- Only show dros in supplementary section for intermediate-dictionary/kids dictionary words -> https://merriam.atlassian.net/browse/MWSITE-9211 -->
+  </div>
+ </body>
+</html>

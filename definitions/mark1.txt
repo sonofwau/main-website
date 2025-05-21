@@ -1,0 +1,307 @@
+<div class="entry-word-section-container" id="dictionary-entry-1">
+<span class="anchor-name ga-track-hom" data-hom="1" id="h1-anchor"></span>
+<span id="dictionary-entry-1-anchor"></span>
+<div class="row entry-header">
+<div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<h1 class="hword">mark</h1>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">1 of 4</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (1)</a></h2> </div>
+<div class="row entry-attr mb-3 mt-2">
+<div class="col word-syllables-prons-header-content flex-wrap">
+<!-- TODO: syllables entry word content - commenting out for now -->
+<span class="prons-entries-list-inline mb-1">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="m" data-file="mark0001" data-lang="en_us" data-title="How to pronounce mark (audio)" data-url="https://www.merriam-webster.com/dictionary/mark?pronunciation&amp;lang=en_us&amp;dir=m&amp;file=mark0001" href="/dictionary/mark?pronunciation&amp;lang=en_us&amp;dir=m&amp;file=mark0001" title="How to pronounce mark (audio)">ˈmärk <img alt="How to pronounce mark (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+</div>
+</div>
+</div>
+<!-- Save to list Button -->
+<!--         <div class="col-12 save-to-list">
+          <a id="save-to-list-link" href="/saved-words" data-ref="dictionary" data-word="mark">
+            <span class="ul-add-icon ul-icon">
+              <svg class="ul-word-list-icon" width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="WordList" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+  <rect id="RectFill" class="rect-fill" x="1" y="1" width="12" height="9" r="0" rx="0" ry="0" stroke="none"></rect>
+  <polygon id="Path-10" fill="#97bece" points="1 8 13 8 13 17 7 12.6775391 1 17"></polygon>
+  <polygon id="Path-11" stroke="#fff" stroke-width="1.5" points="1 1 13 1 13 17 6.98357563 12.2587174 1 17"></polygon>
+	</g>
+</svg>            </span>
+            <span id="save-to-list-txt">Save Word</span>
+          </a>
+        </div>
+     -->
+</div>
+<div class="ul-must-login-def">
+<div id="save-word-login-html"></div></div>
+<div class="ref-interlink mb-3"><a href="/thesaurus/mark" id="ref-interlink">Synonyms of <em>mark</em><img alt="next" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/arrows/interlink-right.svg"/></a></div>
+<div class="vg">
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a boundary land</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-subnum has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="pseq no-subnum">
+<div>
+<div class="sense has-sn">
+<span class="sn"><span class="letter">a</span><span class="sub-num">(1)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a conspicuous object serving as a guide for travelers</span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(2)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>something (such as a line, notch, or fixed object) designed to record position</span>
+</span>
+</div>
+</div> </div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>one of the bits of leather or colored bunting placed on a sounding line at intervals</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-2 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">c</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/target"><span class="text-uppercase">target</span></a></span>
+</span>
+</div>
+</div> </div>
+<div class="sb-3 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">d</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>the starting line or position in a track event</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-4 sb-entry">
+<div class="pseq no-subnum">
+<div>
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">e</span><span class="sub-num">(1)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/goal"><span class="text-uppercase">goal</span></a>, <a class="mw_t_sx" href="/dictionary/object"><span class="text-uppercase">object</span></a></span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(2)</span></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an object of attack, ridicule, or abuse</span>
+</span>
+<div class="sdsense">
+<span class="sd">specifically</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a victim or prospective victim of a swindle</span>
+</div> </div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(3)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>the point under discussion</span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(4)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>condition of being correct or accurate</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">her observations are on the <span class="mw_t_wi">mark</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div> </div>
+<div class="sb-5 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">f</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a standard of performance, quality, or condition <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/norm"><span class="text-uppercase">norm</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">not feeling up to the <span class="mw_t_wi">mark</span> lately</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">3</div> <div class="sb has-subnum has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="pseq no-subnum">
+<div>
+<div class="sense has-sn">
+<span class="sn"><span class="letter">a</span><span class="sub-num">(1)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/sign"><span class="text-uppercase">sign</span></a>, <a class="mw_t_sx" href="/dictionary/indication"><span class="text-uppercase">indication</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">mark</span> of his esteem</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(2)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an impression (such as a scratch, scar, or stain) made on something</span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(3)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a distinguishing trait or quality <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/characteristic"><span class="text-uppercase">characteristic</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">the <span class="mw_t_wi">marks</span> of an educated person</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a symbol used for identification or indication of ownership</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-2 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">c</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a cross made in place of a signature</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-3 sb-entry">
+<div class="pseq no-subnum">
+<div>
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">d</span><span class="sub-num">(1)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/trademark"><span class="text-uppercase">trademark</span></a></span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(2)</span></span>
+<div class="sense-content w-100">
+<span class="lb badge mw-badge-gray-100 text-start text-wrap d-inline">capitalized</span> <span class="dt">
+<span class="uns">
+<span class="un"><div class="d-inline me-2"><svg fill="none" height="9" viewbox="0 0 15 9" width="15" xmlns="http://www.w3.org/2000/svg"><path d="M10.304 8.36202V4.84202H0V4.17002H10.304V0.650024L14.432 4.50602L10.304 8.36202Z" fill="#303336"></path></svg></div><span class="mdash mdash-silent">—</span><span class="unText">used with a numeral to designate a particular model of a product</span><span class="vi"><div class="sub-content-thread"><span class="ex-sent first-child t no-aq sents"><span class="d-block thread-anchor-content pb-1"><span class="mw_t_sp"><em class="mw_t_it">Mark</em> II</span></span><span class="thread-anchor"></span></span></div></span></span></span></span>
+
+</div>
+</div> </div>
+</div> </div>
+<div class="sb-4 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">e</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a written or printed symbol (such as a comma or colon)</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-5 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">f</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/postmark"><span class="text-uppercase">postmark</span></a></span>
+</span>
+</div>
+</div> </div>
+<div class="sb-6 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">g</span></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a symbol used to represent a teacher's estimate of a student's work or conduct</span>
+</span>
+<div class="sdsense">
+<span class="sd">especially</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/grade"><span class="text-uppercase">grade</span></a></span>
+</div> </div>
+</div> </div>
+<div class="sb-7 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">h</span></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a figure registering a point or level reached or achieved</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">the halfway <span class="mw_t_wi">mark</span> in the game</span><div class="thread-anchor"></div></div>
+</span>
+<div class="sdsense">
+<span class="sd">especially</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/record"><span class="text-uppercase">record</span></a></span>
+</div> </div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">4</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/attention"><span class="text-uppercase">attention</span></a>, <a class="mw_t_sx" href="/dictionary/notice"><span class="text-uppercase">notice</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">nothing worthy of <span class="mw_t_wi">mark</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/importance"><span class="text-uppercase">importance</span></a>, <a class="mw_t_sx" href="/dictionary/distinction"><span class="text-uppercase">distinction</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a person of <span class="mw_t_wi">mark</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+<div class="sb-2 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">c</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a lasting or strong impression</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-3 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">d</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an assessment of merits <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/rating"><span class="text-uppercase">rating</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">high <span class="mw_t_wi">marks</span> for honesty</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+</div>
+<!-- Only show dros in supplementary section for intermediate-dictionary/kids dictionary words -> https://merriam.atlassian.net/browse/MWSITE-9211 -->
+</div>

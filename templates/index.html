@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Boggle Game</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <span id="htmlHolder">
+        <span id="settings">
+            <div class="centered-container">
+                <startButton id="startButton" onclick="createTable(6,6)">On your mark!</startButton>
+            </div>
+            <div class="centered-container">
+                <label for="timerLength">Game length: </label>
+                <select id="timerLength">
+                    <option value="0">Instant</option>
+                    <option value="5">5 seconds</option>
+                    <option value="240">4 minutes</option>
+                </select>
+                &emsp; &emsp;
+                <label for="fontSize">Board font size: </label>
+                <select id="fontSize">
+                    <option value="48">48</option>
+                    <option value="72">72</option>
+                    <option value="24">24</option>
+                </select>
+                &emsp; &emsp;
+                <label for="fontSelection">Board font: </label>
+                <select id="fontSelection">
+                    <option value='Arial, Helvetica, sans-serif'>Arial</option>
+                    <option value='"Times New Roman", Times, serif'>Times New Roman</option>
+                    <option value='"Courier New", "Lucida Console", monospace'>Courier New</option>
+                    <option value='"Comic Sans", cursive, sans-serif'>Comic Sans</option>
+                    <option value='Consolas, Helvetica, sans-serif'>Consolas</option>
+                </select>
+                &emsp; &emsp;
+                <label for="gameType">Game type: </label>
+                <select id="gameType">
+                    <option value='Super'>Super (6x6)</option>
+                    <option value='Debug'>Debug</option>
+                </select>
+            </div>
+        </span>
+        <p id="timerDisplay" style="text-align: center; font-size: 48px; display: none;"></p>
+        <p id="wordSearch" style="text-align: center; display: none;">
+            <label id="searchLabel" for="WordSearchBox" style="font-size: 30px">Word search: </label>
+            <input type="text" id="wordSearchBox" name="wordSearchBox" oninput="newWordSearch()">
+            <searchButton id="defineWord" onClick='defineWord("")'>Find definition</searchButton>
+        </p>
+        <p id="searchResults" style="text-align: center; font-size: 38px;  display: none;"></p>
+    	<div id="boggleContainer" class="centered-container">
+    		<table id="boggleBoard"></table>
+
+    		<select id="foundWords" size="44" style="display: none;" onclick="wordSelected()">
+                <option value='[clear]'>[clear]</option>
+            </select>
+            <div class="scrollable-container">
+                <pre id="wordDefinition" class="definition-text"></pre>
+            </div>
+    	</div>
+    	<p id="debug" style="text-align: left; font-size: 38px; display: none;"></p>
+	</span>
+
+	<script>
+	    function newWordSearch() {
+	        let word = document.getElementById("wordSearchBox").value
+            document.getElementById("debug").style.display = ''
+            document.getElementById("debug").innerText = `Searching for: ${word}`
+	        defineWord(word)
+	    }
+
+        async function defineWord(word) {
+            // Reach back to python to define the word
+            const response = await fetch("/defineWord", {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({word})
+            });
+            const result = await response.json();
+            //document.getElementById("debug").innerText = JSON.stringify(result, null, 2)
+            document.getElementById("wordDefinition").textContent = result.def
+        }
+
+        function findWords() {
+            // Reach back to python to process
+        }
+
+        const foundWords = {}
+        board = [
+            ["O", "N", "C", "B", "T", "S"],
+            ["V", "I", "Y", "O", "U", "R"],
+            ["A", "M", "A", "R", "K", "I"],
+            ["G", "E", "T", "I", "N", "G"],
+            ["Y", "Th", "-", "S", "E", "T"],
+            ["B", "O", "G", "G", "L", "E"]
+        ]
+        let diceList = [
+            ["A","A","A","F","R","S"], ["A","A","E","E","E","E"], ["A","A","E","E","O","O"], ["A","A","F","I","R","S"], ["A","B","D","E","I","O"], ["A","D","E","N","N","N"],
+            ["A","E","E","E","E","M"], ["A","E","E","G","M","U"], ["A","E","G","M","N","N"], ["A","E","I","L","M","N"], ["A","E","I","N","O","U"], ["A","F","I","R","S","Y"],
+            ["An","Er","He","In","Qu","Th"], ["B","B","J","K","X","Z"], ["C","C","E","N","S","T"], ["C","D","D","L","N","N"], ["C","E","I","I","T","T"], ["C","E","I","P","S","T"],
+            ["C","F","G","N","U","Y"], ["D","D","H","N","O","T"], ["D","H","H","L","O","R"], ["D","H","H","N","O","W"], ["D","H","L","N","O","R"], ["E","H","I","L","R","S"],
+            ["E","I","I","L","S","T"], ["E","I","L","P","S","T"], ["E","I","O","-","-","-"], ["E","M","T","T","T","O"], ["E","N","S","S","S","U"], ["G","O","R","R","V","W"],
+            ["H","I","R","S","T","V"], ["H","O","P","R","S","T"], ["I","P","R","S","Y","Y"], ["J","K","Qu","W","X","Z"], ["N","O","O","T","U","W"], ["O","O","O","T","T","U"]
+        ]
+
+        function updateFoundWordsList () {
+            const foundWordsSelect = document.getElementById("foundWords")
+            foundWordsSelect.style.display = ""
+            document.getElementById('wordSearch').style.display = ""
+
+            let count = 0
+            let longestWord = ""
+            Object.keys(foundWords).sort().forEach(word => {
+                let newOption = document.createElement("option")
+                newOption.value = word
+                newOption.text = word
+                foundWordsSelect.appendChild(newOption)
+                if (longestWord.length < word.length) {
+                    longestWord = word
+                }
+                count++
+            })
+            document.getElementById("searchResults").style.display = ''
+            document.getElementById("searchResults").innerHTML = `ScriptBob found ${count} words. <br>The longest word it found was ${longestWord}.`
+            document.getElementById("debug").innerHTML = `ScriptBob found ${count} words. <br>The longest word it found was ${longestWord}.`
+        }/**/
+
+        // Complete
+        function diceGenerator () {
+            const randomIndex = Math.floor(Math.random() * diceList.length)
+            const letter = diceList[randomIndex][Math.floor(Math.random() * 6)]
+            diceList.splice(randomIndex, 1)
+            return letter
+        }
+
+        // Complete
+        function startCountdown (duration) {
+            display = document.getElementById('timerDisplay')
+            display.style.display = ""
+            let time = duration;
+            timer = setInterval(function () {
+                let minutes = Math.floor(time / 60);
+                let seconds = time % 60;
+                minutes = minutes < 10 ? '0' + minutes : minutes;
+                seconds = seconds < 10 ? '0' + seconds : seconds;
+                display.textContent = minutes + ':' + seconds;
+                if (--time < 0) {
+                    clearInterval(timer);
+                    for (let y = 0; y < 6; y++) {
+                        for (let x = 0; x < 6; x++) {
+                            document.getElementById(`${y}${x}`).style.color = "White"
+                            document.getElementById(`${y}${x}`).style.backgroundColor = "Black"
+                            document.getElementById(`${y}${x}`).style.border = "2px solid white"
+                        }
+                    }
+                    display.style.display = "none"
+                    display = document.getElementById('foundWords').style.display = ''
+                    display = document.getElementById('wordSearch').style.display = ''
+                }
+            }, 1000);
+        }
+
+        // Complete
+        function wordSelected () {
+            let word = document.getElementById('foundWords').value
+            if (word === "[clear]") {
+                document.getElementById("wordSearchBox").value = ""
+            } else {
+                document.getElementById("wordSearchBox").value = word
+            }
+            displayDefinition(word)
+        }
+
+        // Needs to be recreated from scratch based off the results from defineWord()
+        function displayDefinition () {
+            mapWords(word)
+        }
+
+        // Needs to be updated
+        // Change from dict to array
+        function mapWords (word) {
+            Object.keys(board).forEach(coords => {
+                let cell = document.getElementById(coords)
+                cell.style.color = "White"
+                cell.className = "table-cell"
+            })
+            if (word == "[clear]") {
+                document.getElementById('searchResults').textContent='';
+                document.getElementById('wordDefinition').textContent='';
+                return
+            }
+            document.getElementById('searchResults').textContent='';
+
+            let count = 0
+            for (let i = 0; i<foundWords[word].length; i++) {
+                let coord = foundWords[word][i]
+                let cell = document.getElementById(coord)
+                let newClass = "table-cell"
+                if (i>0) {
+                    //assign before class
+                    let lx = parseInt(foundWords[word][i-1][1])
+                    let ly = parseInt(foundWords[word][i-1][2])
+                    let x = parseInt(foundWords[word][i][1])
+                    let y = parseInt(foundWords[word][i][2])
+                    switch (true) {
+                        case (lx==x && ly>y) :
+                            newClass+=" before-S"
+                            break
+                        case (lx==x && ly<y) :
+                            newClass+=" before-N"
+                            break
+                        case (lx>x && ly>y) :
+                            newClass+=" before-SE"
+                            break
+                        case (lx>x && ly==y) :
+                            newClass+=" before-E"
+                            break
+                        case (lx>x && ly<y) :
+                            newClass+=" before-NE"
+                            break
+                        case (lx<x && ly<y) :
+                            newClass+=" before-NW"
+                            break
+                        case (lx<x && ly==y) :
+                            newClass+=" before-W"
+                            break
+                        case (lx<x && ly>y) :
+                            newClass+=" before-SW"
+                            break
+                    }
+                }
+                if (i<foundWords[word].length-1) {
+                    //assign after class
+                    let nx = parseInt(foundWords[word][i+1][1])
+                    let ny = parseInt(foundWords[word][i+1][2])
+                    let x = parseInt(foundWords[word][i][1])
+                    let y = parseInt(foundWords[word][i][2])
+                    switch (true) {
+                        case (nx==x && ny>y) :
+                            newClass+=" after-S"
+                            break
+                        case (nx>x && ny>y) :
+                            newClass+=" after-SE"
+                            break
+                        case (nx>x && ny==y) :
+                            newClass+=" after-E"
+                            break
+                        case (nx>x && ny<y) :
+                            newClass+=" after-NE"
+                            break
+                        case (nx==x && ny<y) :
+                            newClass+=" after-N"
+                            break
+                        case (nx<x && ny<y) :
+                            newClass+=" after-NW"
+                            break
+                        case (nx<x && ny==y) :
+                            newClass+=" after-W"
+                            break
+                        case (nx<x && ny>y) :
+                            newClass+=" after-SW"
+                            break
+                    }
+                }
+                cell.style.color = "Red"
+                cell.className = newClass
+            }/**/
+        }
+
+        // Needs to be updated
+        // Deal with results from findWords()
+	    function createTable(rows, cols) {
+            document.getElementById(`settings`).style.display = "None"
+            const table = document.getElementById('boggleBoard');
+            display = document.getElementById('timerDisplay')
+            const time = parseInt(document.getElementById('timerLength').value, 10)
+            let minutes = Math.floor(time / 60);
+            let seconds = time % 60;
+            minutes = minutes < 10 ? '0' + minutes : minutes;
+            seconds = seconds < 10 ? '0' + seconds : seconds;
+            display.textContent = minutes + ':' + seconds;
+
+            startCountdown(time)
+
+            for (let y = 0; y < rows; y++) {
+                const row = table.insertRow();
+                for (let x = 0; x < cols; x++) {
+                    const cell = row.insertCell();
+                    if (document.getElementById('gameType').value == "Super") {
+                        board[y][x] = diceGenerator()
+                    }
+                    cell.innerHTML = `<span>${board[y][x]}</span>`
+                    cell.id = `${y}${x}`
+                    cell.className = "table-cell"
+                    cell.style.fontFamily = `${document.getElementById('fontSelection').value}`
+                    cell.style.fontSize = `${parseInt(document.getElementById('fontSize').value, 10)}px`
+                    cell.style.padding = `${parseInt(document.getElementById('fontSize').value, 10)/2}px`
+                }
+            }
+           findWords()
+        }
+
+        // Allow people to search by just clicking enter
+        document.getElementById("wordSearchBox").addEventListener("keyup", event => {
+            if(event.key !== "Enter") return;
+           // document.getElementById("defineWord").click();
+            event.preventDefault();
+        });
+	</script>
+</body>
+</html>

@@ -1,0 +1,315 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    z-index: 2;
+    /*margin: 24px auto; /**/
+}
+body {
+    background-color: rgb(103, 129, 153)
+}
+.table-cell {
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    position: relative;
+    text-align: center; /* Center text horizontally */
+    vertical-align: middle; /* Center text vertically */
+    z-index: 5
+}
+.table-cell span {
+    position: relative;
+    z-index: 5
+}
+th, td {
+    border: 2px solid black;
+    text-align: center;
+	font-weight: 800;
+    z-index: 5;
+}
+label {
+    font-weight: 500;
+    font-size: 480
+}
+startButton {
+    margin: 24px auto;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    padding: 15px;
+    font-size: 24px;
+    background-color: #4CAF50;
+    color: white;
+    border: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+startButton:hover {
+    background-color: #006400
+}
+
+searchButton {
+    margin: 16px auto;
+    text-align: center;
+    width: 120px;
+    height: 30px;
+    padding: 5px;
+    font-size: 24px;
+    background-color: #4CAF50;
+    color: white;
+    border: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+searchButton:hover {
+    background-color: #006400
+}
+input {
+    margin: 16px auto;
+    height: 30px;
+    font-size: 24px;
+}
+
+.cell {
+    position: relative;
+    width: 58px;
+    height: 58px;
+    border: 1px solid black;
+    z-index: 1
+}
+
+.after-N::after {
+    content: '';
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-90deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: auto
+}
+
+.after-NE::after {
+    content: '';
+    position: absolute;
+    top: 10%;
+    left: 90%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.after-E::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.after-SE::after {
+    content: '';
+    position: absolute;
+    top: 90%;
+    left: 90%;
+    transform: translate(-50%, -50%) rotate(45deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.after-S::after {
+    content: '';
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-90deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.after-SW::after {
+    content: '';
+    position: absolute;
+    top: 90%;
+    left: 10%;
+    transform: translate(-50%, -50%) rotate(135deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.after-W::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.after-NW::after {
+    content: '';
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    transform: translate(-50%, -50%) rotate(-135deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.before-N::before {
+    content: '';
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-90deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.before-NE::before {
+    content: '';
+    position: absolute;
+    top: 10%;
+    left: 90%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.before-E::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.before-SE::before {
+    content: '';
+    position: absolute;
+    top: 90%;
+    left: 90%;
+    transform: translate(-50%, -50%) rotate(45deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.before-S::before {
+    content: '';
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-90deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.before-SW::before {
+    content: '';
+    position: absolute;
+    top: 90%;
+    left: 10%;
+    transform: translate(-50%, -50%) rotate(135deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.before-W::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.before-NW::before {
+    content: '';
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    transform: translate(-50%, -50%) rotate(-135deg);
+    border-top: 5px solid white; /* Style 1 */
+    width: 40px;
+    height: 0px;
+    z-index: 3
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center;/**/
+    align-items: center;
+    /*border: 1px solid #2517e2;/**/
+    /*margin: 20px auto; /**/
+}
+.stacked-container {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    /*margin: 20px auto; /**/
+    /*border: 1px solid #000;/**/
+}
+.left-container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    /*margin: 20px auto; /**/
+}
+.left-item {
+    margin-right: auto; /* Pushes the image to the left *//
+}
+.right-item {
+    margin-right: auto; /* Pushes the image to the left *//
+}
+.scrollable-container {
+    max-width: 700px;
+    max-height: 700px;
+    overflow: auto;
+}
+.definition-text {
+  font-size: 18px;
+  font-family: monospace;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  line-height: 1.5;
+}
+
+.container {
+    display: flex;
+    align-items: center; /* Aligns items vertically */
+    justify-content: center; /* Centers everything except the image */
+    /*border: 1px solid #ca0707;/**/
+}

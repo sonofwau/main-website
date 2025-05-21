@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>No</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        div {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            color: black;
+            font-size: 100px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div>
+       <p id="no"></p>
+    </div>
+
+    <script>
+        function no(){
+            const response = await fetch("/no_response");
+            result = await response.json();
+            //const result = await response.json();
+            //document.getElementById("debug").innerText = JSON.stringify(result, null, 2)
+            document.getElementById("no").innerHTML = result.response
+            //document.getElementById("no").innerHTML = "test"
+        }
+
+        no()
+    </script>
+</body>
+</html>

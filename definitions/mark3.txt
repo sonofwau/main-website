@@ -1,0 +1,96 @@
+<div class="entry-word-section-container" id="dictionary-entry-3">
+<span class="anchor-name ga-track-hom" data-hom="3" id="h3-anchor"></span>
+<span id="dictionary-entry-3-anchor"></span>
+<div class="row entry-header">
+<div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">mark</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">3 of 4</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (2)</a></h2> </div>
+</div>
+<!-- Save to list Button -->
+<!-- -->
+</div>
+<div class="vg">
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>any of various old European units of weight used especially for gold and silver</span>
+</span>
+<div class="sdsense">
+<span class="sd">especially</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a unit equal to about eight ounces (248 grams)</span>
+</div> </div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num has-let has-subnum ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a unit of value:</span>
+</span>
+</div>
+</div>
+</div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an old English unit equal to 13 shillings and 4 pence</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-2 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>any one of various old Scandinavian or German units of value</span>
+</span>
+<div class="sdsense">
+<span class="sd">specifically</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a unit and corresponding silver coin of the 16th century worth ¹/₂ thaler</span>
+</div> </div>
+</div> </div>
+<div class="sb-3 sb-entry">
+<div class="pseq no-subnum">
+<div>
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">c</span><span class="sub-num">(1)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/deutsche mark"><span class="text-uppercase">deutsche mark</span></a></span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(2)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>the basic monetary unit of East Germany replaced in 1990 by the West German deutsche mark</span>
+</span>
+</div>
+</div> </div>
+</div> </div>
+<div class="sb-4 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">d</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/markka"><span class="text-uppercase">markka</span></a></span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+</div>
+<!-- Only show dros in supplementary section for intermediate-dictionary/kids dictionary words -> https://merriam.atlassian.net/browse/MWSITE-9211 -->
+</div>

@@ -1,0 +1,441 @@
+[<span class="anchor-name ga-track-hom" data-hom="4" id="h4-anchor"></span>, <span id="dictionary-entry-4-anchor"></span>, <div class="row entry-header">
+<div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">4 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (2)</a></h2> </div>
+</div>
+<!-- Save to list Button -->
+<!-- -->
+</div>, <div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">4 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (2)</a></h2> </div>
+</div>, <div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">4 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (2)</a></h2> </div>, <p class="hword">spell</p>, <span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">4 of 5</span></span>, <span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">4 of 5</span>, <h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/noun">noun (2)</a></h2>, <a class="important-blue-link" href="/dictionary/noun">noun (2)</a>, <div class="vg">
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an indeterminate period of time</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">waited a <span class="mw_t_wi">spell</span> before advancing</span><div class="thread-anchor"></div></div>
+</span>
+<div class="sdsense">
+<span class="sd">also</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a continuous period of time </span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">did a <span class="mw_t_wi">spell</span> in prison    </span><div class="thread-anchor"></div></div>
+</div> </div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a stretch of a specified type of weather</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of bodily or mental distress or disorder</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">spell</span> of coughing</span><div class="thread-anchor"></div></div> <div class="sub-content-thread mb-3"><span class="ex-sent no-aq sents">fainting <span class="mw_t_wi">spells</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">3</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period spent in a job or occupation</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of rest from work, activity, or use</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">4</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>one's turn at work</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">archaic</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a shift of workers</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+</div>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an indeterminate period of time</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">waited a <span class="mw_t_wi">spell</span> before advancing</span><div class="thread-anchor"></div></div>
+</span>
+<div class="sdsense">
+<span class="sd">also</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a continuous period of time </span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">did a <span class="mw_t_wi">spell</span> in prison    </span><div class="thread-anchor"></div></div>
+</div> </div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a stretch of a specified type of weather</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">1</div>, <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an indeterminate period of time</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">waited a <span class="mw_t_wi">spell</span> before advancing</span><div class="thread-anchor"></div></div>
+</span>
+<div class="sdsense">
+<span class="sd">also</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a continuous period of time </span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">did a <span class="mw_t_wi">spell</span> in prison    </span><div class="thread-anchor"></div></div>
+</div> </div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a stretch of a specified type of weather</span>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an indeterminate period of time</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">waited a <span class="mw_t_wi">spell</span> before advancing</span><div class="thread-anchor"></div></div>
+</span>
+<div class="sdsense">
+<span class="sd">also</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a continuous period of time </span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">did a <span class="mw_t_wi">spell</span> in prison    </span><div class="thread-anchor"></div></div>
+</div> </div>
+</div> </div>, <div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an indeterminate period of time</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">waited a <span class="mw_t_wi">spell</span> before advancing</span><div class="thread-anchor"></div></div>
+</span>
+<div class="sdsense">
+<span class="sd">also</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a continuous period of time </span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">did a <span class="mw_t_wi">spell</span> in prison    </span><div class="thread-anchor"></div></div>
+</div> </div>
+</div>, <span class="sn"><span class="letter">a</span></span>, <span class="letter">a</span>, <div class="sense-content w-100">
+<span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an indeterminate period of time</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">waited a <span class="mw_t_wi">spell</span> before advancing</span><div class="thread-anchor"></div></div>
+</span>
+<div class="sdsense">
+<span class="sd">also</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a continuous period of time </span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">did a <span class="mw_t_wi">spell</span> in prison    </span><div class="thread-anchor"></div></div>
+</div> </div>, <span class="dt hasSdSense">
+<span class="dtText"><strong class="mw_t_bc">: </strong>an indeterminate period of time</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">waited a <span class="mw_t_wi">spell</span> before advancing</span><div class="thread-anchor"></div></div>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>an indeterminate period of time</span>, <strong class="mw_t_bc">: </strong>, <div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">waited a <span class="mw_t_wi">spell</span> before advancing</span><div class="thread-anchor"></div></div>, <span class="ex-sent first-child no-aq sents">waited a <span class="mw_t_wi">spell</span> before advancing</span>, <span class="mw_t_wi">spell</span>, <div class="thread-anchor"></div>, <div class="sdsense">
+<span class="sd">also</span>
+<span class="dtText"><strong class="mw_t_bc">: </strong>a continuous period of time </span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">did a <span class="mw_t_wi">spell</span> in prison    </span><div class="thread-anchor"></div></div>
+</div>, <span class="sd">also</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>a continuous period of time </span>, <strong class="mw_t_bc">: </strong>, <div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">did a <span class="mw_t_wi">spell</span> in prison    </span><div class="thread-anchor"></div></div>, <span class="ex-sent first-child no-aq sents">did a <span class="mw_t_wi">spell</span> in prison    </span>, <span class="mw_t_wi">spell</span>, <div class="thread-anchor"></div>, <div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a stretch of a specified type of weather</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a stretch of a specified type of weather</span>
+</span>
+</div>
+</div>, <span class="sn"><span class="letter">b</span></span>, <span class="letter">b</span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a stretch of a specified type of weather</span>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a stretch of a specified type of weather</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>a stretch of a specified type of weather</span>, <strong class="mw_t_bc">: </strong>, <div class="vg-sseq-entry-item-thread-anchor"></div>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of bodily or mental distress or disorder</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">spell</span> of coughing</span><div class="thread-anchor"></div></div> <div class="sub-content-thread mb-3"><span class="ex-sent no-aq sents">fainting <span class="mw_t_wi">spells</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">2</div>, <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of bodily or mental distress or disorder</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">spell</span> of coughing</span><div class="thread-anchor"></div></div> <div class="sub-content-thread mb-3"><span class="ex-sent no-aq sents">fainting <span class="mw_t_wi">spells</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of bodily or mental distress or disorder</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">spell</span> of coughing</span><div class="thread-anchor"></div></div> <div class="sub-content-thread mb-3"><span class="ex-sent no-aq sents">fainting <span class="mw_t_wi">spells</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of bodily or mental distress or disorder</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">spell</span> of coughing</span><div class="thread-anchor"></div></div> <div class="sub-content-thread mb-3"><span class="ex-sent no-aq sents">fainting <span class="mw_t_wi">spells</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div>, <span class="sn"></span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of bodily or mental distress or disorder</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">spell</span> of coughing</span><div class="thread-anchor"></div></div> <div class="sub-content-thread mb-3"><span class="ex-sent no-aq sents">fainting <span class="mw_t_wi">spells</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of bodily or mental distress or disorder</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">spell</span> of coughing</span><div class="thread-anchor"></div></div> <div class="sub-content-thread mb-3"><span class="ex-sent no-aq sents">fainting <span class="mw_t_wi">spells</span></span><div class="thread-anchor"></div></div>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>a period of bodily or mental distress or disorder</span>, <strong class="mw_t_bc">: </strong>, <div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">spell</span> of coughing</span><div class="thread-anchor"></div></div>, <span class="ex-sent first-child no-aq sents">a <span class="mw_t_wi">spell</span> of coughing</span>, <span class="mw_t_wi">spell</span>, <div class="thread-anchor"></div>, <div class="sub-content-thread mb-3"><span class="ex-sent no-aq sents">fainting <span class="mw_t_wi">spells</span></span><div class="thread-anchor"></div></div>, <span class="ex-sent no-aq sents">fainting <span class="mw_t_wi">spells</span></span>, <span class="mw_t_wi">spells</span>, <div class="thread-anchor"></div>, <div class="vg-sseq-entry-item-thread-anchor"></div>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">3</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period spent in a job or occupation</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of rest from work, activity, or use</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">3</div>, <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period spent in a job or occupation</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of rest from work, activity, or use</span>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period spent in a job or occupation</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period spent in a job or occupation</span>
+</span>
+</div>
+</div>, <span class="sn"><span class="letter">a</span></span>, <span class="letter">a</span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period spent in a job or occupation</span>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period spent in a job or occupation</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>a period spent in a job or occupation</span>, <strong class="mw_t_bc">: </strong>, <div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of rest from work, activity, or use</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of rest from work, activity, or use</span>
+</span>
+</div>
+</div>, <span class="sn"><span class="letter">b</span></span>, <span class="letter">b</span>, <div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of rest from work, activity, or use</span>
+</span>
+</div>, <span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>, <span class="sl">chiefly Australia</span>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a period of rest from work, activity, or use</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>a period of rest from work, activity, or use</span>, <strong class="mw_t_bc">: </strong>, <div class="vg-sseq-entry-item-thread-anchor"></div>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">4</div> <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>one's turn at work</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">archaic</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a shift of workers</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">4</div>, <div class="sb has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>one's turn at work</span>
+</span>
+</div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">archaic</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a shift of workers</span>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>one's turn at work</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn has-num">
+<span class="sn"><span class="letter">a</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>one's turn at work</span>
+</span>
+</div>
+</div>, <span class="sn"><span class="letter">a</span></span>, <span class="letter">a</span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>one's turn at work</span>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>one's turn at work</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>one's turn at work</span>, <strong class="mw_t_bc">: </strong>, <div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">archaic</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a shift of workers</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">archaic</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a shift of workers</span>
+</span>
+</div>
+</div>, <span class="sn"><span class="letter">b</span></span>, <span class="letter">b</span>, <div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">archaic</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a shift of workers</span>
+</span>
+</div>, <span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">archaic</span> </span>, <span class="sl">archaic</span>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>a shift of workers</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>a shift of workers</span>, <strong class="mw_t_bc">: </strong>, <div class="vg-sseq-entry-item-thread-anchor"></div>]

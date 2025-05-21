@@ -1,0 +1,204 @@
+<div class="entry-word-section-container" id="dictionary-entry-2">
+<span class="anchor-name ga-track-hom" data-hom="2" id="h2-anchor"></span>
+<span id="dictionary-entry-2-anchor"></span>
+<div class="row entry-header">
+<div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">mark</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">2 of 4</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/verb">verb</a></h2> </div>
+</div>
+<!-- Save to list Button -->
+<!-- -->
+</div>
+<div class="row headword-row header-ins">
+<div class="col">
+<span class="vg-ins">
+<span class="if">marked</span><span class="sep-semicolon">; </span><span class="if">marking</span><span class="sep-semicolon">; </span><span class="if">marks</span> </span>
+</div>
+</div>
+<div class="vg">
+<!-- Transitive / Intransitive -->
+<p class="vd firstVd"><a class="important-blue-link" href="/dictionary/transitive">transitive verb</a></p>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-subnum has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="pseq no-subnum">
+<div>
+<div class="sense has-sn">
+<span class="sn"><span class="letter">a</span><span class="sub-num">(1)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to fix or trace out the bounds or limits of</span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(2)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to plot the course of <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/chart"><span class="text-uppercase">chart</span></a></span>
+</span>
+</div>
+</div> </div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="sense has-sn">
+<span class="sn"><span class="letter">b</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to set apart by or as if by a line or boundary</span>
+<span class="uns">
+<span class="un"><div class="d-inline me-2"><svg fill="none" height="9" viewbox="0 0 15 9" width="15" xmlns="http://www.w3.org/2000/svg"><path d="M10.304 8.36202V4.84202H0V4.17002H10.304V0.650024L14.432 4.50602L10.304 8.36202Z" fill="#303336"></path></svg></div><span class="mdash mdash-silent">—</span><span class="unText">usually used with <em class="mw_t_it">off</em></span></span></span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-subnum has-num has-let ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="pseq no-subnum">
+<div>
+<div class="sense has-sn">
+<span class="sn"><span class="letter">a</span><span class="sub-num">(1)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to designate as if by a mark</span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(2)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to make or leave a mark on</span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(3)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to furnish with natural <a class="mw_t_a_link" href="/dictionary/marks">marks</a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">wings <span class="mw_t_wi">marked</span> with white</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(4)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to label so as to indicate price or quality</span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(5)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to make notations in or on</span>
+</span>
+</div>
+</div> </div>
+</div> </div>
+<div class="sb-1 sb-entry">
+<div class="pseq no-subnum">
+<div>
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">b</span><span class="sub-num">(1)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to make note of in writing <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/jot"><span class="text-uppercase">jot</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents"><span class="mw_t_sp"><span class="mw_t_wi">marking</span> the date in his journal</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(2)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to indicate by a mark or symbol</span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents"><span class="mw_t_sp"><span class="mw_t_wi">mark</span> an accent</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(3)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/register"><span class="text-uppercase">register</span></a>, <a class="mw_t_sx" href="/dictionary/record"><span class="text-uppercase">record</span></a></span>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(4)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to determine the value of by means of marks or symbols <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/grade"><span class="text-uppercase">grade</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents"><span class="mw_t_sp"><span class="mw_t_wi">mark</span> term papers</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div> </div>
+<div class="sb-2 sb-entry">
+<div class="pseq no-subnum">
+<div>
+<div class="sense has-sn has-num">
+<span class="sn"><span class="letter">c</span><span class="sub-num">(1)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/characterize"><span class="text-uppercase">characterize</span></a>, <a class="mw_t_sx" href="/dictionary/distinguish"><span class="text-uppercase">distinguish</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">the flamboyance that <span class="mw_t_wi">marks</span> her style</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> <div class="sense has-num-only has-subnum-only">
+<span class="sn"><span class="sub-num">(2)</span></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/signalize"><span class="text-uppercase">signalize</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">this year <span class="mw_t_wi">marks</span> our 50th anniversary</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">3</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to take notice of <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/observe"><span class="text-uppercase">observe</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents"><span class="mw_t_sp"><span class="mw_t_wi">mark</span> my words</span></span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">4</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to pick up (one's golf ball) from a putting green and substitute a <a class="mw_t_a_link" href="/dictionary/marker">marker</a></span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+</div>
+<div class="vg">
+<!-- Transitive / Intransitive -->
+<p class="vd"><a class="important-blue-link" href="/dictionary/intransitive">intransitive verb</a></p>
+<div class="vg-sseq-entry-item">
+<div class="sb no-sn ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense no-subnum">
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to take careful notice</span>
+</span>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<!-- Only show dros in supplementary section for intermediate-dictionary/kids dictionary words -> https://merriam.atlassian.net/browse/MWSITE-9211 -->
+</div>

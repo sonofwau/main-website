@@ -1,0 +1,281 @@
+[<span class="anchor-name ga-track-hom" data-hom="5" id="h5-anchor"></span>, <span id="dictionary-entry-5-anchor"></span>, <div class="row entry-header">
+<div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">5 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/verb">verb (3)</a></h2> </div>
+</div>
+<!-- Save to list Button -->
+<!-- -->
+</div>, <div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">5 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/verb">verb (3)</a></h2> </div>
+</div>, <div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">5 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/verb">verb (3)</a></h2> </div>, <p class="hword">spell</p>, <span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">5 of 5</span></span>, <span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">5 of 5</span>, <h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/verb">verb (3)</a></h2>, <a class="important-blue-link" href="/dictionary/verb">verb (3)</a>, <div class="row headword-row header-ins">
+<div class="col">
+<span class="vg-ins">
+<span class="if">spelled</span><span class="prt-a">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+<span class="sep-semicolon">; </span><span class="if">spelling</span> </span>
+</div>
+</div>, <div class="col">
+<span class="vg-ins">
+<span class="if">spelled</span><span class="prt-a">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+<span class="sep-semicolon">; </span><span class="if">spelling</span> </span>
+</div>, <span class="vg-ins">
+<span class="if">spelled</span><span class="prt-a">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+<span class="sep-semicolon">; </span><span class="if">spelling</span> </span>, <span class="if">spelled</span>, <span class="prt-a">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>, <a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>, <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/>, <span class="sep-semicolon">; </span>, <span class="if">spelling</span>, <div class="vg">
+<!-- Transitive / Intransitive -->
+<p class="vd firstVd"><a class="important-blue-link" href="/dictionary/transitive">transitive verb</a></p>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to take the place of for a time <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/relieve"><span class="text-uppercase">relieve</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">we <span class="mw_t_wi">spell</span> each other every two hours</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/rest"><span class="text-uppercase">rest</span></a></span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+</div>, <p class="vd firstVd"><a class="important-blue-link" href="/dictionary/transitive">transitive verb</a></p>, <a class="important-blue-link" href="/dictionary/transitive">transitive verb</a>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to take the place of for a time <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/relieve"><span class="text-uppercase">relieve</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">we <span class="mw_t_wi">spell</span> each other every two hours</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">1</div>, <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to take the place of for a time <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/relieve"><span class="text-uppercase">relieve</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">we <span class="mw_t_wi">spell</span> each other every two hours</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to take the place of for a time <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/relieve"><span class="text-uppercase">relieve</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">we <span class="mw_t_wi">spell</span> each other every two hours</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to take the place of for a time <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/relieve"><span class="text-uppercase">relieve</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">we <span class="mw_t_wi">spell</span> each other every two hours</span><div class="thread-anchor"></div></div>
+</span>
+</div>
+</div>, <span class="sn"></span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to take the place of for a time <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/relieve"><span class="text-uppercase">relieve</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">we <span class="mw_t_wi">spell</span> each other every two hours</span><div class="thread-anchor"></div></div>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to take the place of for a time <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/relieve"><span class="text-uppercase">relieve</span></a></span>
+<div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">we <span class="mw_t_wi">spell</span> each other every two hours</span><div class="thread-anchor"></div></div>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>to take the place of for a time <strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/relieve"><span class="text-uppercase">relieve</span></a></span>, <strong class="mw_t_bc">: </strong>, <strong class="mw_t_bc">: </strong>, <a class="mw_t_sx" href="/dictionary/relieve"><span class="text-uppercase">relieve</span></a>, <span class="text-uppercase">relieve</span>, <div class="sub-content-thread mb-3"><span class="ex-sent first-child no-aq sents">we <span class="mw_t_wi">spell</span> each other every two hours</span><div class="thread-anchor"></div></div>, <span class="ex-sent first-child no-aq sents">we <span class="mw_t_wi">spell</span> each other every two hours</span>, <span class="mw_t_wi">spell</span>, <div class="thread-anchor"></div>, <div class="vg-sseq-entry-item-thread-anchor"></div>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/rest"><span class="text-uppercase">rest</span></a></span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">2</div>, <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/rest"><span class="text-uppercase">rest</span></a></span>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/rest"><span class="text-uppercase">rest</span></a></span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/rest"><span class="text-uppercase">rest</span></a></span>
+</span>
+</div>
+</div>, <span class="sn"></span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/rest"><span class="text-uppercase">rest</span></a></span>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/rest"><span class="text-uppercase">rest</span></a></span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong><a class="mw_t_sx" href="/dictionary/rest"><span class="text-uppercase">rest</span></a></span>, <strong class="mw_t_bc">: </strong>, <a class="mw_t_sx" href="/dictionary/rest"><span class="text-uppercase">rest</span></a>, <span class="text-uppercase">rest</span>, <div class="vg-sseq-entry-item-thread-anchor"></div>, <div class="vg">
+<!-- Transitive / Intransitive -->
+<p class="vd"><a class="important-blue-link" href="/dictionary/intransitive">intransitive verb</a></p>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to work in turns</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+<div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to rest from an activity for a time</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>
+</div>, <p class="vd"><a class="important-blue-link" href="/dictionary/intransitive">intransitive verb</a></p>, <a class="important-blue-link" href="/dictionary/intransitive">intransitive verb</a>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">1</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to work in turns</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">1</div>, <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to work in turns</span>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to work in turns</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to work in turns</span>
+</span>
+</div>
+</div>, <span class="sn"></span>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to work in turns</span>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to work in turns</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>to work in turns</span>, <strong class="mw_t_bc">: </strong>, <div class="vg-sseq-entry-item-thread-anchor"></div>, <div class="vg-sseq-entry-item">
+<div class="vg-sseq-entry-item-label">2</div> <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to rest from an activity for a time</span>
+</span>
+</div>
+</div> </div>
+</div>
+<div class="vg-sseq-entry-item-thread-anchor"></div> </div>, <div class="vg-sseq-entry-item-label">2</div>, <div class="sb has-num ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to rest from an activity for a time</span>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to rest from an activity for a time</span>
+</span>
+</div>
+</div> </div>, <div class="sense has-sn has-num-only">
+<span class="sn"></span>
+<div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to rest from an activity for a time</span>
+</span>
+</div>
+</div>, <span class="sn"></span>, <div class="sense-content w-100">
+<span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to rest from an activity for a time</span>
+</span>
+</div>, <span class="badge mw-badge-gray-100 text-start text-wrap"><span class="sl">chiefly Australia</span> </span>, <span class="sl">chiefly Australia</span>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to rest from an activity for a time</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>to rest from an activity for a time</span>, <strong class="mw_t_bc">: </strong>, <div class="vg-sseq-entry-item-thread-anchor"></div>]

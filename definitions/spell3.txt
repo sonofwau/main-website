@@ -1,0 +1,122 @@
+[<span class="anchor-name ga-track-hom" data-hom="3" id="h3-anchor"></span>, <span id="dictionary-entry-3-anchor"></span>, <div class="row entry-header">
+<div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">3 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/verb">verb (2)</a></h2> </div>
+<div class="row entry-attr mb-3 mt-2">
+<div class="col word-syllables-prons-header-content flex-wrap">
+<!-- TODO: syllables entry word content - commenting out for now -->
+<span class="prons-entries-list-inline mb-1">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell004" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" title="How to pronounce spell (audio)">ˈspel <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+</div>
+</div>
+</div>
+<!-- Save to list Button -->
+<!-- -->
+</div>, <div class="col-12">
+<div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">3 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/verb">verb (2)</a></h2> </div>
+<div class="row entry-attr mb-3 mt-2">
+<div class="col word-syllables-prons-header-content flex-wrap">
+<!-- TODO: syllables entry word content - commenting out for now -->
+<span class="prons-entries-list-inline mb-1">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell004" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" title="How to pronounce spell (audio)">ˈspel <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+</div>
+</div>
+</div>, <div class="entry-header-content d-flex flex-wrap align-items-baseline flex-row mb-0">
+<p class="hword">spell</p>
+<span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">3 of 5</span></span>
+<h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/verb">verb (2)</a></h2> </div>, <p class="hword">spell</p>, <span><span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">3 of 5</span></span>, <span class="badge entry-numbers-badge fw-normal position-relative mt-3 me-4">3 of 5</span>, <h2 class="parts-of-speech"><a class="important-blue-link" href="/dictionary/verb">verb (2)</a></h2>, <a class="important-blue-link" href="/dictionary/verb">verb (2)</a>, <div class="row entry-attr mb-3 mt-2">
+<div class="col word-syllables-prons-header-content flex-wrap">
+<!-- TODO: syllables entry word content - commenting out for now -->
+<span class="prons-entries-list-inline mb-1">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell004" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" title="How to pronounce spell (audio)">ˈspel <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+</div>
+</div>, <div class="col word-syllables-prons-header-content flex-wrap">
+<!-- TODO: syllables entry word content - commenting out for now -->
+<span class="prons-entries-list-inline mb-1">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell004" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" title="How to pronounce spell (audio)">ˈspel <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+</div>, <span class="prons-entries-list-inline mb-1">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell004" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" title="How to pronounce spell (audio)">ˈspel <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>, <a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell004" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell004" title="How to pronounce spell (audio)">ˈspel <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>, <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/>, <div class="row headword-row header-ins">
+<div class="col">
+<span class="vg-ins">
+<span class="if">spelled</span><span class="prt-a">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+<span class="sep-semicolon">; </span><span class="if">spelling</span> </span>
+</div>
+</div>, <div class="col">
+<span class="vg-ins">
+<span class="if">spelled</span><span class="prt-a">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+<span class="sep-semicolon">; </span><span class="if">spelling</span> </span>
+</div>, <span class="vg-ins">
+<span class="if">spelled</span><span class="prt-a">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>
+<span class="sep-semicolon">; </span><span class="if">spelling</span> </span>, <span class="if">spelled</span>, <span class="prt-a">
+<a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>
+</span>, <a class="play-pron-v2 text-decoration-none prons-entry-list-item d-inline badge mw-badge-gray-300" data-dir="s" data-file="spell002" data-lang="en_us" data-title="How to pronounce spell (audio)" data-url="https://www.merriam-webster.com/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" href="/dictionary/spell?pronunciation&amp;lang=en_us&amp;dir=s&amp;file=spell002" title="How to pronounce spell (audio)">ˈspeld <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/></a>, <img alt="How to pronounce spell (audio)" class="svg" src="/dist-cross-dungarees/2025-05-05--16-37-26-4pw0vg/images/svg/audio-pron-redesign.svg"/>, <span class="sep-semicolon">; </span>, <span class="if">spelling</span>, <div class="vg">
+<!-- Transitive / Intransitive -->
+<p class="vd firstVd"><a class="important-blue-link" href="/dictionary/transitive">transitive verb</a></p>
+<div class="vg-sseq-entry-item">
+<div class="sb no-sn ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense no-subnum">
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to put under a spell</span>
+</span>
+</div>
+</div> </div>
+</div>
+</div>
+</div>, <p class="vd firstVd"><a class="important-blue-link" href="/dictionary/transitive">transitive verb</a></p>, <a class="important-blue-link" href="/dictionary/transitive">transitive verb</a>, <div class="vg-sseq-entry-item">
+<div class="sb no-sn ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense no-subnum">
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to put under a spell</span>
+</span>
+</div>
+</div> </div>
+</div>
+</div>, <div class="sb no-sn ms-lg-4 ms-3 w-100">
+<div class="sb-0 sb-entry">
+<div class="sense no-subnum">
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to put under a spell</span>
+</span>
+</div>
+</div> </div>
+</div>, <div class="sb-0 sb-entry">
+<div class="sense no-subnum">
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to put under a spell</span>
+</span>
+</div>
+</div> </div>, <div class="sense no-subnum">
+<div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to put under a spell</span>
+</span>
+</div>
+</div>, <div class="sense-content w-100">
+<span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to put under a spell</span>
+</span>
+</div>, <span class="dt">
+<span class="dtText"><strong class="mw_t_bc">: </strong>to put under a spell</span>
+</span>, <span class="dtText"><strong class="mw_t_bc">: </strong>to put under a spell</span>, <strong class="mw_t_bc">: </strong>]
