@@ -162,6 +162,23 @@ def board_search(game_board, word_list_path = "/home/sonofwau/mysite/boggle/cond
 
                     # Build combo for display/key (maintains original casing from board)
                     new_combo_for_display = current_combo_display + next_letter_on_board
+                    
+                    if word_to_find:
+                        if word_to_find.lower().startswith(new_combo_for_trie):
+                            new_coord_list = current_coord_list.copy()
+                            new_coord_list[max(current_coord_list.keys()) + 1] = {
+                                "x": next_x,
+                                "y": next_y,
+                                "letter": next_letter_on_board # Store original case from board
+                            }
+                            if word_to_find.lower().startswith(new_combo_for_trie):
+                                word_key_display_title = new_combo_for_display.title()
+                                if word_key_display_title not in _internal_found_paths:
+                                    _internal_found_paths[word_key_display_title] = new_coord_list
+                            #else:
+                                #return
+                            find_next_letter(new_combo_for_display, new_coord_list)
+                        continue
 
                     if word_trie.starts_with(new_combo_for_trie):
                         new_coord_list = current_coord_list.copy()
@@ -189,10 +206,18 @@ def board_search(game_board, word_list_path = "/home/sonofwau/mysite/boggle/cond
                 initial_coords = {0: {"x": c, "y": r, "letter": start_letter_on_board}}
                 start_letter_for_trie = start_letter_on_board.lower() # For trie search
 
-                if word_trie.search(start_letter_for_trie):
-                    word_key_display_title = start_letter_on_board.title()
-                    if word_key_display_title not in _internal_found_paths:
-                         _internal_found_paths[word_key_display_title] = initial_coords
+                if word_to_find:
+                    if word_to_find[0] == start_letter_on_board:
+                        word_key_display_title = start_letter_on_board.title()
+                        if word_key_display_title not in _internal_found_paths:
+                             _internal_found_paths[word_key_display_title] = initial_coords
+                    else:
+                        continue
+                else:
+                    if word_trie.search(start_letter_for_trie):
+                        word_key_display_title = start_letter_on_board.title()
+                        if word_key_display_title not in _internal_found_paths:
+                             _internal_found_paths[word_key_display_title] = initial_coords
 
                 # Begin recursive search for words starting with this letter
                 # Pass the original case from board for current_combo_display
@@ -243,13 +268,18 @@ if __name__ == '__main__':
     specific_word_result = board_search(board_example, word_to_find="NEET")
     print(json.dumps(specific_word_result, indent=2))
     print("-" * 20)
+    
+    print("Searching for 'GOTH' (using default path in board_search function)...")
+    specific_word_result = board_search(board_example, word_to_find="GOTH")
+    print(json.dumps(specific_word_result, indent=2))
+    print("-" * 20)
 
     print("Searching for 'BOGGLE' (using default path in board_search function)...")
-    specific_word_result_boggle = board_search(board_example, word_to_find="BOGGLE")
-    print(json.dumps(specific_word_result_boggle, indent=2))
+    specific_word_result = board_search(board_example, word_to_find="BOGGLE")
+    print(json.dumps(specific_word_result, indent=2))
     print("-" * 20)
 
     print("Searching for 'XYZ' (not on board, using default path)...")
-    specific_word_result_xyz = board_search(board_example, word_to_find="XYZ")
-    print(json.dumps(specific_word_result_xyz, indent=2))
+    specific_word_result = board_search(board_example, word_to_find="XYZ")
+    print(json.dumps(specific_word_result, indent=2))
     print("-" * 20)
