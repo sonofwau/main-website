@@ -229,7 +229,7 @@ def board_search(game_board, word_list_path = "/home/sonofwau/mysite/boggle/cond
         if word_to_find_title in _internal_found_paths:
             return {"status": True, word_to_find_title: _internal_found_paths[word_to_find_title]}
         else:
-            return {"status": False, "msg": f'{word_to_find.title()} not found on board or is not a valid word.'}
+            return {"status": False, "msg": f'{word_to_find.title()} not found on board.'}
     else:
         # Return all found words (paths are stored in _internal_found_paths)
         return _internal_found_paths
